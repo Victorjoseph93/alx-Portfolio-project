@@ -1,0 +1,29 @@
+.dashboard-links {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+
+.dashboard-links a {
+    text-decoration: none;
+    color: #333;
+    background-color: #f0f0f0;
+    padding: 1em;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.dashboard-links a:hover {
+    background-color: #ddd;
+}
+
+.image-container {
+    margin-top: 2em;
+    text-align: center;
+}
+
+.image-container img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
