@@ -21,7 +21,7 @@ MySQL: For open-source relational database management.
 Hardware
 Servers: High-performance servers for hosting the application.
 Workstations: Powerful computers for development and testing.
-Networking Equipment: Routers, switches, and firewalls for secure and reliable connectivity.
+Networking Equipments: Routers, switches, and firewalls for secure and reliable connectivity.
 Books and Resources
 “Clean Code” by Robert C. Martin: For best practices in writing clean and maintainable code.
 “Designing Data-Intensive Applications” by Martin Kleppmann: For understanding data systems and architecture.
